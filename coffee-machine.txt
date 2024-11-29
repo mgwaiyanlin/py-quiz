@@ -1,0 +1,50 @@
+Coffee Machine Program Requirements
+===================================
+
+Make 3 hot flavors
+------------------
+- Expresso ($1.50)
+	50ml Water
+	18g Coffee
+
+- Latte ($2.50)
+	200ml Water
+	24g Coffee
+	150ml Milk
+
+- Cappuccino ($3.00)
+	250ml Water
+	24g Coffee
+	100ml Milk
+
+
+Resources in the machine
+------------------------
+	1000ml Water
+	500ml Milk
+	250g Coffee
+
+
+Coin Operated
+-------------
+- Penny (1 cent) = $0.01
+- Nickel (5 cents) = $0.05
+- Dime (10 cents) = $0.10
+- Quarter (25 cents) = $0.25
+
+
+Program Requirements
+--------------------
+1. print reports
+	recources and money
+
+# What would you like? (expresso/latte/cappuccino): report
+	Water: 300ml
+	Milk: 200ml
+	Coffee: 100g
+	Money: $0
+
+2. Check resources sufficient?
+3. Process conins.
+4. Check transaction successful?
+5. Make Coffee.
